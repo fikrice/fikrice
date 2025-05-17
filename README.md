@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
-  <img src="https://komarev.com/ghpvc/?username=BhatiaRaj&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=fikrice&style=flat-square&color=blue" alt=""/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raj+Bhatia!;" style="max-width: auto;" align="Left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Fikri+SAN!;" style="max-width: auto;" align="Left">
   <br/>
 <br/>
 </div>
